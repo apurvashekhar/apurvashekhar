@@ -17,3 +17,4 @@ free time, I love to travel, bake and workout!
   </ul>
 <a href='https://www.linkedin.com/in/apurva-shekhar/'> <img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="30px"></a> <a href="mailto:ashekhar@scu.edu"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width="30px"> </a>
 
+[![Apurva's github stats](https://github-readme-stats.vercel.app/api?username=apurvashekhar&show_icons=true&theme=radical)](https://github.com/apurvashekhar/github-readme-stats)
