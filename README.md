@@ -1,6 +1,6 @@
 <img src= https://github.com/apurvashekhar/apurvashekhar/blob/master/header.png alt="Apurva Shekhar Data Analyst">
 
-I am pursuing Masters in Business Analytics at Santa Clara University, 2020. Along with my coursework, I worked as a part-time
+I am a recent graduate of Masters in Business Analytics at Santa Clara University, 2020. Along with my coursework, I worked as a part-time
 business analyst at an IoT startup, Atollogy Inc for 7 months. I gained practical knowledge of working with large, messy datasets,
 and wrote complex SQL queries to generate actionable business insights. I got the opportunity to collaborate with the data engineer 
 and customer success teams to understand the business need of the client. This experience helped me to become fluent in curate Tableau 
